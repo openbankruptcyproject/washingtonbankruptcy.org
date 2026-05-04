@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://washingtonbankruptcy.org/sitemap.xml
